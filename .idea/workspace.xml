@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="32541579-055c-4809-9643-59bf89d9c4f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-preparation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/final_track_list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/final_track_list.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vector-search.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/vector-search.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +106,7 @@
       <workItem from="1748796670303" duration="5401000" />
       <workItem from="1748810521005" duration="7144000" />
       <workItem from="1748873157750" duration="3085000" />
+      <workItem from="1748884363167" duration="122000" />
     </task>
     <servers />
   </component>
